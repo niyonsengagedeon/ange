@@ -1,0 +1,36 @@
+fieldset{
+   box-shadow: rgb(153, 126, 51);
+    height:500px;
+    width: 550px;
+    background-color: lightcoral;
+    box-sizing: border-box;
+    border-radius: 44PX;
+    
+}
+input{
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 44px;
+}
+button:active{
+ border-radius: 40px;   
+
+
+background-color:red;
+}
+button:hover{
+    background-color: aqua;
+
+}
+form{
+    
+    text-align: center;
+    height: 143px;
+    width: 500px;
+}
+body{text-align: center;
+    border-radius: 23%;
+    text-align: center;
+    background-image: url(bn.PNG);
+}
+
+
